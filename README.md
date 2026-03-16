@@ -4,7 +4,7 @@ I turn **marketing data into actionable growth strategies.**
 
 I specialize in analyzing marketing performance, optimizing lead funnels, and building data-driven systems that help businesses **generate better leads and higher conversions.**
 
-My work sits at the intersection of **marketing, analytics, and technology** — using data to understand what actually drives growth.
+My work sits at the intersection of **marketing, analytics, and technology**, using data to understand what actually drives growth.
 
 • 📊 Marketing Data Analyst  
 • 🎯 Lead Optimization Specialist  
@@ -82,7 +82,9 @@ Transforming raw marketing data into **clear dashboards and visual reports** usi
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=syedtasawarabbas&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=syedtasawarabbas&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedtasawarabbas&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
